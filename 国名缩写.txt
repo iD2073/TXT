@@ -1,40 +1,22 @@
-NRT     JP     日本东京  Tokyo     
-
-SIN     SG     新加坡  Singapore
-
+NRT    JP    日本东京  Tokyo     
+SIN    SG    新加坡  Singapore
 HKG    KG    香港   Hong Kong
-
-SJC     US     美国    San Jose
-
+SJC    US    美国    San Jose
 ORD    US    美国芝加哥  Chicago
-
 FRA    DE    德国法兰克福  Frankfurt
-
-AMS    NL   荷兰阿姆斯特丹  Amsterdam
-
-BOM    IN   孟买  Mumbai
-
+AMS    NL    荷兰阿姆斯特丹  Amsterdam
+BOM    IN    孟买  Mumbai
 KIX    JP    日本大阪  Osaka
-
 LAX    US    洛杉矶  Los Angeles
-
 CDG    FR    法国巴黎  Paris
-
 YYZ    CA    加拿大多伦多  Toronto
-
 OSL    NO    挪威奥斯陆   Oslo
+ICN    KR    韩国首尔  Seoul
+SLC    US    美国盐湖城  Salt Lake City
+CGK    ID    印尼雅加达  Jakarta
+MNL    PH	   菲律宾马尼拉 Manila
 
-
-
-
-
-
-
-
-
-
-
-
+-----------------------------------
 
 IAD    阿什本
 
