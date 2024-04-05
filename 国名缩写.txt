@@ -14,7 +14,7 @@ OSL    NO    挪威奥斯陆   Oslo
 ICN    KR    韩国首尔  Seoul
 SLC    US    美国盐湖城  Salt Lake City
 CGK    ID    印尼雅加达  Jakarta
-MNL    PH	   菲律宾马尼拉 Manila
+MNL    PH    菲律宾马尼拉 Manila
 
 -----------------------------------
 
